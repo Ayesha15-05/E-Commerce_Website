@@ -72,3 +72,60 @@ Font Awesome for icons
 
 
 
+
+
+
+
+
+
+
+
+
+<img width="1600" height="828" alt="image" src="https://github.com/user-attachments/assets/6aeb792b-8aef-4db6-841a-d08313fb0d4b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1600" height="808" alt="image" src="https://github.com/user-attachments/assets/475e6fbb-9125-475d-97f4-56eed15f1cb5" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1600" height="822" alt="image" src="https://github.com/user-attachments/assets/1c23e20d-f80e-4345-94e8-4619b7e73252" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1600" height="682" alt="image" src="https://github.com/user-attachments/assets/d8afa2ce-a6cc-4ca7-9b26-9de91c6dcbae" />
