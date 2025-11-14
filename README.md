@@ -129,3 +129,25 @@ Font Awesome for icons
 
 
 <img width="1600" height="682" alt="image" src="https://github.com/user-attachments/assets/d8afa2ce-a6cc-4ca7-9b26-9de91c6dcbae" />
+
+
+
+
+
+
+📄 Credits
+
+This template is provided by TemplateMo under their free-to-use license.
+Original template: HexaShop by TemplateMo.
+
+💡 Customization
+
+You can easily modify:
+
+Colors (in the CSS files)
+
+Images (inside /assets)
+
+Sections (in index.html)
+
+Links, navigation menus, product cards
